@@ -1,3 +1,5 @@
+Play the game here: https://66dd79cb90eba4de24bc68d3--extraordinary-fox-fa9a3a.netlify.app/
+
 # Folder structure
 
 - `src` - source code for your kaboom project
