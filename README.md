@@ -1,4 +1,4 @@
-Play the game here: https://66dd79cb90eba4de24bc68d3--extraordinary-fox-fa9a3a.netlify.app/
+Play the game here: https://extraordinary-fox-fa9a3a.netlify.app/
 
 # Folder structure
 
